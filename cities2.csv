@@ -1,0 +1,748 @@
+Country,City,Latitude,Longitude
+ar,ushuaia,-54.8,-68.3
+cl,punta arenas,-53.15,-70.916667
+ar,rio gallegos,-51.622613,-69.218127
+nz,bluff,-46.6,168.333333
+nz,invercargill,-46.4,168.35
+nz,riverton,-46.35,168.016667
+nz,wallacetown,-46.333333,168.266667
+nz,dunedin,-45.866667,170.5
+nz,outram,-45.866667,170.233333
+nz,ranfurly,-45.133333,170.1
+nz,wanaka,-44.7,169.15
+nz,christchurch,-43.533333,172.633333
+nz,darfield,-43.483333,172.116667
+nz,greymouth,-42.466667,171.2
+cl,castro,-42.463611,-73.808333
+nz,dobson,-42.45,171.3
+nz,reefton,-42.116667,171.866667
+cl,ancud,-41.869722,-73.820278
+ar,san carlos de bariloche,-41.140293,-71.301369
+nz,porirua,-41.133333,174.85
+nz,riwaka,-41.083333,173
+au,burnie,-41.05584,145.903748
+nz,masterton,-40.959722,175.6575
+cl,purranque,-40.916667,-73.166667
+cl,loncoche,-39.366667,-72.633333
+cl,villarrica,-39.266667,-72.216667
+nz,okato,-39.2,173.883333
+nz,new plymouth,-39.066667,174.083333
+nz,wairoa,-39.033333,177.366667
+ar,general roca,-39.02797,-67.573711
+nz,turangi,-39,175.933333
+cl,pitrufquen,-38.983333,-72.65
+ar,neuquen,-38.951606,-68.059102
+cl,freire,-38.95,-72.633333
+nz,waitara,-38.925,174.25
+cl,cabrero,-37.033333,-72.4
+cl,coronel,-37.016667,-73.133333
+nz,tairua,-37.016667,175.85
+cl,chiguayante,-36.916667,-73.016667
+ar,olavarria,-36.892715,-60.32254
+nz,auckland,-36.866667,174.766667
+au,murray bridge,-35.119862,139.273453
+cl,molina,-35.116667,-71.283333
+nz,kaeo,-35.1,173.783333
+au,mount barker,-35.066667,138.866667
+au,albany,-35.003101,117.865952
+cl,curico,-34.983333,-71.233333
+ar,san vicente,-34.982645,-58.376169
+za,east london,-33.011051,27.910049
+ar,gualeguaychu,-33.009375,-58.51722
+cl,vina del mar,-33.008056,-71.519722
+cl,limache,-32.983333,-71.283333
+ar,rosario,-32.946818,-60.639317
+au,newcastle,-32.927792,151.784485
+ar,rafaela,-31.250332,-61.486696
+au,tamworth,-31.090481,150.929047
+au,kempsey,-31.078979,152.830933
+za,burgersdorp,-30.997659,26.328623
+br,dom pedrito,-30.983333,-54.666667
+br,sombrio,-29.116667,-49.666667
+br,tupancireta,-29.083333,-53.85
+za,greytown,-29.064155,30.592786
+za,ritchie,-29.038006,24.60278
+br,flores da cunha,-29.0287,-51.1822
+br,ouro fino,-28.983333,-52.816667
+br,sao marcos,-28.966667,-51.066667
+py,capitan meza,-27.016667,-55.566667
+za,vredefort,-27.008048,27.364601
+za,piet retief,-27.007063,30.813231
+br,videira,-27,-51.133333
+py,nacunday,-26.016667,-54.766667
+py,villa oliva,-26.016667,-57.883333
+py,ybycui,-26.016667,-57.05
+za,tembisa,-25.996363,28.226802
+br,coronel vivida,-25.966667,-52.566667
+mg,ampanihy,-24.7,44.75
+br,peruibe,-24.316667,-47
+br,sertanopolis,-23.066667,-51.033333
+bw,mahalapye,-23.0666667,26.8333333
+br,cerqueira cesar,-23.05,-49.166667
+br,ipaussu,-23.05,-49.616667
+br,itapora,-22.016667,-54.9
+br,sao carlos,-22.016667,-47.9
+br,sapucaia,-22,-42.9
+na,usakos,-22,15.6
+au,moranbah,-21.99828,148.034836
+na,okahandja,-21.9833333,16.9166667
+br,boa esperanca do sul,-21.983333,-48.383333
+br,piuma,-20.833333,-40.716667
+zw,zvishavane,-20.3333333,30.0333333
+br,ituverava,-20.333333,-47.783333
+br,vila velha,-20.333333,-40.283333
+mz,chimoio,-19.1163889,33.4833333
+br,acucena,-19.066667,-42.533333
+br,ladario,-19.016667,-57.583333
+mg,arivonimamo,-19.0166667,47.1833333
+nu,alofi,-19.0166667,-169.9166667
+br,aguia branca,-18.983333,-40.733333
+br,carmo do paranaiba,-18.983333,-46.35
+br,ituiutaba,-18.966667,-49.466667
+bo,robore,-18.3333333,-59.75
+mg,ankazobe,-18.3166667,47.1166667
+bo,san pedro,-18.2833333,-59.8166667
+br,prado,-17.35,-39.216667
+mg,vohibinany,-17.35,49.0333333
+bo,montero,-17.3333333,-63.25
+br,almenara,-16.183333,-40.7
+br,salinas,-16.166667,-42.283333
+mg,mananara,-16.1666667,49.7666667
+br,taiobeiras,-15.816667,-42.233333
+bo,caranavi,-15.8166667,-67.55
+br,janauba,-15.8,-43.316667
+mw,phalombe,-15.8,35.65
+mw,monkey bay,-14.0833333,34.9166667
+pe,macusani,-14.0833333,-70.4333333
+ws,samatau,-13.9,-172.0333333
+vu,sola,-13.8833333,167.55
+ws,falefa,-13.8833333,-171.55
+ws,faleapuna,-13.8666667,-171.5666667
+au,alyangula,-13.85413,136.421295
+br,jequie,-13.85,-40.083333
+ws,lufilufi,-13.85,-171.5833333
+ws,solosolo,-13.85,-171.6
+au,palmerston,-12.45722,130.836639
+br,santo estevao,-12.433333,-39.216667
+ao,catumbela,-12.431389,13.547222
+br,sao goncalo dos campos,-12.416667,-38.966667
+br,seabra,-12.416667,-41.766667
+pe,pampas,-12.4,-74.9
+ao,kuito,-12.383333,16.933333
+br,sao desiderio,-12.366667,-44.966667
+br,terra nova,-12.366667,-40.666667
+zm,chililabombwe,-12.3666667,27.8333333
+br,catu,-12.35,-38.383333
+br,pojuca,-12.35,-38.333333
+ao,lobito,-12.319722,13.599722
+br,oliveira dos brejinhos,-12.316667,-42.9
+br,ruy barbosa,-12.3,-40.45
+zm,lundazi,-12.3,33.1833333
+km,fomboni,-12.28,43.7425
+pe,caleta de carquin,-11.1,-77.6
+pe,hualmay,-11.0902778,-77.6294444
+tz,liuli,-11.0833333,34.6333333
+br,barra,-11.083333,-43.166667
+ao,cazaje,-11.067147,20.701483
+tz,lulindi,-10.8166667,39.1333333
+tz,namikupa,-10.8166667,39.65
+bo,guayaramerin,-10.8,-65.3833333
+br,guajara-mirim,-10.8,-65.366667
+br,pacatuba,-10.433333,-36.65
+pe,chaupimarca,-10.4069444,-76.4619444
+br,piacabucu,-10.4,-36.416667
+tz,madimba,-10.4,40.3333333
+tz,katumba,-9.2333333,33.6166667
+br,inhapi,-9.233333,-37.75
+br,joaquim gomes,-9.2,-35.716667
+cd,bukama,-9.2,25.85
+br,aripuana,-9.166667,-60.633333
+br,bom conselho,-9.166667,-36.683333
+br,uniao dos palmares,-9.166667,-36.033333
+tz,kiwira,-9.1666667,33.5333333
+br,matriz de camaragibe,-9.15,-35.516667
+br,santana do mundau,-9.15,-36.183333
+br,quipapa,-8.833333,-36.033333
+br,barreiros,-8.816667,-35.2
+br,santa maria da boa vista,-8.816667,-39.816667
+tz,mlimba,-8.8,35.8166667
+tz,mtimbira,-8.7833333,36.35
+br,maraial,-8.783333,-35.833333
+br,belem de sao francisco,-8.766667,-38.966667
+br,caetes,-8.766667,-36.633333
+br,porto velho,-8.766667,-63.9
+pg,popondetta,-8.7666667,148.2333333
+sb,auki,-8.7666667,160.7
+zm,mpulungu,-8.7666667,31.1333333
+br,boca do acre,-8.75,-67.383333
+br,capoeiras,-8.75,-36.633333
+br,tamandare,-8.75,-35.1
+br,tupanatinga,-8.75,-37.333333
+cd,kamina,-8.738611,24.990556
+tz,makungu,-8.7333333,35.2833333
+id,praya,-8.705362,116.270357
+br,agua preta,-8.7,-35.516667
+br,carnaiba,-8.7,-37.666667
+tz,rujewa,-8.7,34.3833333
+tz,mahenge,-8.6833333,36.7166667
+br,conceicao do araguaia,-8.241111,-49.296111
+pe,salaverry,-8.2333333,-78.9666667
+br,bezerros,-8.233333,-35.75
+br,cha grande,-8.233333,-35.45
+id,banyuwangi,-8.2215,114.3646
+br,gravata,-8.2,-35.566667
+ao,camabatela,-8.18812,15.37495
+pe,tocache,-8.1841667,-76.5125
+pe,moche,-8.1833333,-79.0333333
+id,gondanglegi,-8.175288,112.635935
+id,jember,-8.1705,113.702
+br,tarauaca,-8.166667,-70.766667
+id,kebumen,-7.323333,109.600833
+id,salatiga,-7.321389,110.507778
+br,barbalha,-7.316667,-39.283333
+id,rajapolah,-7.221,108.1896
+br,campina grande,-7.216667,-35.883333
+br,teixeira,-7.216667,-37.25
+id,ngemplak,-7.216667,110.631111
+br,ananas,-6.360278,-47.91
+id,rangkasbitung,-6.3591,106.2494
+br,catole do rocha,-6.35,-37.75
+pe,tabalosos,-6.35,-76.6833333
+pe,bagua grande,-5.7561111,-78.4411111
+br,mombaca,-5.75,-39.633333
+tz,manyoni,-5.75,34.8333333
+pe,cajaruro,-5.7363889,-78.4255556
+br,macaiba,-5.716667,-35.55
+ec,cariamanga,-4.3333333,-79.55
+tz,makanya,-4.3333333,37.85
+br,baturite,-4.333333,-38.883333
+br,ipu,-4.333333,-40.7
+br,lago da pedra,-4.333333,-45.166667
+br,santa quiteria,-4.333333,-40.166667
+cd,ilebo,-4.316667,20.583333
+br,carire,-3.95,-40.45
+id,kendari,-3.945,122.498889
+br,piracuruca,-3.933333,-41.7
+bi,rutana,-3.9191667,29.9936111
+br,buriti,-3.916667,-42.95
+br,ibiapina,-3.916667,-40.9
+br,aquiraz,-3.9,-38.366667
+br,bela cruz,-3.05,-40.183333
+br,itacoatiara,-3.05,-58.433333
+tz,bwanga,-3.0322222,31.7636111
+tz,buseresere,-3.0236111,31.8747222
+cd,kabare,-2.468333,28.824167
+ec,sucua,-2.4666667,-78.1666667
+br,bequimao,-2.433333,-44.783333
+br,santarem,-2.433333,-54.7
+rw,gisenyi,-1.7027778,29.2563889
+br,abaetetuba,-1.7,-48.9
+ec,palora,-1.7,-77.9333333
+ec,san miguel,-1.7,-79.0333333
+br,barcarena,-1.5,-48.666667
+tz,musoma,-1.5,33.8
+rw,ruhengeri,-1.4833333,29.6166667
+so,kismayo,-0.3666667,42.5333333
+ke,chuka,-0.3333333,37.65
+ec,sangolqui,-0.3166667,-78.45
+ug,masaka,-0.3127778,31.7130556
+ug,kalangala,-0.3088889,32.225
+ke,nakuru,-0.2833333,36.0666667
+ke,nanyuki,0.0166667,37.0666667
+br,macapa,0.033333,-51.05
+ke,nyahururu,0.0333333,36.3666667
+ec,cayambe,0.05,-78.1333333
+ug,kyenjojo,0.6327778,30.6213889
+ug,buwenge,0.6422222,33.1744444
+id,tidore,0.666667,127.433333
+co,orito,0.676558,-76.877116
+ke,malakisi,0.6769444,34.4216667
+ug,tororo,0.6847222,34.1811111
+ug,namasuba,0.6894444,32.4213889
+ug,muhororo,0.9380556,30.7594444
+ug,kamuli,0.9472222,33.1197222
+ug,kagadi,0.9605556,30.7966667
+co,guachucal,0.960931,-77.731605
+co,puerto guzman,0.964538,-76.407953
+co,iles,0.974909,-77.527408
+ec,esmeraldas,0.9833333,-79.7
+ga,cocobeach,0.9833333,9.6
+co,funes,1.002657,-77.450668
+ke,kitale,1.0166667,35
+co,villagarzon,1.029049,-76.62022
+co,curillo,1.033271,-75.919065
+co,sapuyes,1.033333,-77.6
+co,arboleda,1.508584,-77.124435
+my,pekan nenas,1.51,103.5141
+co,los andes,1.514686,-77.504435
+co,santacruz,1.520896,-77.262058
+co,san bernardo,1.521189,-77.03091
+my,sekudai,1.533333,103.666667
+id,bandar,2.05,99.75
+ki,rawannawi,2.05,173.2666667
+co,oporapa,2.050146,-75.976749
+co,altamira,2.062778,-75.787222
+so,mogadishu,2.0666667,45.3666667
+ga,bitam,2.0833333,11.4833333
+id,rantauprapat,2.1,99.833333
+co,pizarro,2.101944,-78.721667
+so,mahadday weyne,2.9666667,45.5333333
+co,padilla,3.220376,-76.313851
+co,villavieja,3.220523,-75.218643
+co,aipe,3.222222,-75.236667
+cm,saa,4.3666667,11.45
+lr,harper,4.375,-7.7169444
+co,paratebueno,4.375754,-73.215472
+co,piedras,4.538328,-74.881747
+co,jerusalen,4.563094,-74.69519
+ng,opobo,4.564844,7.547802
+co,alvarado,4.566124,-74.962294
+co,montenegro,4.566389,-75.751111
+co,barranca de upia,4.569634,-72.966758
+co,gama,4.762881,-73.610905
+co,anolaima,4.765904,-74.465477
+my,kuala kangsar,4.766667,100.933333
+sd,kapoeta,4.7716667,33.5902778
+ng,port harcourt,4.777423,7.013404
+co,santa rosa de cabal,4.868056,-75.621389
+gh,axim,4.8683333,-2.2413889
+co,monterrey,4.872057,-72.898791
+co,tenjo,4.872701,-74.144351
+co,viani,4.87384,-74.562439
+co,murillo,4.87393,-75.17151
+co,togui,5.390556,-73.516667
+my,butterworth,5.399102,100.363818
+cf,obo,5.4,26.5
+my,ayer itam,5.4,100.283333
+co,ramiriqui,5.400205,-73.335437
+co,la merced,5.401944,-75.884722
+ph,sarangani,5.403333,125.463611
+co,fuquene,5.404253,-73.7964
+co,salamina,5.407328,-75.487487
+co,trinidad,5.407377,-71.661397
+co,la capilla,5.704931,-73.475272
+co,santa sofia,5.709077,-73.604037
+ph,malisbong,6.12,124.354722
+my,alor setar,6.121045,100.360137
+ph,calian,6.123056,125.700278
+co,sativanorte,6.131564,-72.708947
+ci,gagnoa,6.131934,-5.950601
+my,kota bahru,6.133275,102.238603
+co,santuario,6.138333,-75.264167
+co,granada,6.143526,-75.185323
+th,narathiwat,6.426389,101.823084
+ph,linan,6.43,124.975556
+co,san joaquin,6.430037,-72.86768
+ph,lampitak,6.432222,125.0525
+ph,santo nino,6.435,124.6975
+co,barbosa,6.438088,-75.331355
+ng,enugu,6.4402,7.4943
+my,kangar,6.4414,100.198619
+ph,sirib,7.133333,125.407222
+co,chitaga,7.137813,-72.664558
+ph,glad,7.148333,124.518056
+ph,san mateo,7.149444,124.583056
+gh,hohoe,7.15,0.4666667
+ng,abeokuta,7.15,3.35
+ph,cogon,7.150833,125.717222
+ph,dualing,7.151667,124.568333
+ph,awang,7.153056,124.221111
+co,rionegro,7.153611,-73.153611
+ph,bannawag,7.153611,124.866667
+ph,barira,7.487222,124.299167
+co,zaragoza,7.489707,-74.869189
+ph,banisilan,7.490833,124.724167
+ng,ikere,7.491328,5.232248
+ph,esperanza,7.491667,125.728056
+ve,tariba,7.8236111,-72.2213889
+ph,pagadian,7.8257,123.437
+ph,ganassi,7.826937,124.103445
+ng,ilobu,7.833333,4.483333
+th,phuket,7.833333,98.383333
+ph,tidman,8.298611,126.338889
+et,metu,8.3,35.583333
+ph,tabuan,9.515556,122.850556
+pa,barranco,9.5166667,-82.7
+pa,tubuala,9.5166667,-79.0333333
+in,aruppukkottai,9.516667,78.1
+in,srivilliputtur,9.516667,77.633333
+ph,nabulao,9.6616,122.4577
+lk,jaffna,9.6666667,80
+ve,san carlos,9.6666667,-68.6
+ph,cayhagan,9.6783,122.4335
+et,debre birhan,9.683333,39.533333
+ph,bulod,9.683333,123.15
+ph,lepanto,9.6845,123.4026
+ph,candabong,9.6859,123.0728
+ph,bonbon,10.2245,123.5573
+ph,basak,10.2264,123.3064
+bj,bembereke,10.2288889,2.6652778
+ve,guacara,10.2297222,-67.8738889
+ph,pangdan,10.230781,123.7379
+ve,santa teresa,10.2313889,-66.6636111
+co,mahates,10.232927,-75.189849
+cr,pital,10.450558,-84.274065
+ph,himaya,10.4516,122.8325
+ph,san juan,10.4524,123.4273
+ph,guadalupe,10.454467,123.373201
+ph,compostela,10.455,124.0106
+co,candelaria,10.459117,-74.879697
+ph,santiago,11.058056,122.911667
+td,melfi,11.0597222,17.9330556
+ph,dagami,11.060833,124.902778
+ph,dolores,11.061389,124.613333
+ph,santo nino,11.062,124.5608
+in,malappuram,11.066667,76.066667
+ph,cayang,11.066667,123.983333
+ph,duenas,11.0672,122.6191
+ph,san enrique,11.0712,122.656
+ph,bislig,11.0725,125.033611
+cr,la cruz,11.073771,-85.632716
+ni,nandasmo,11.9333333,-86.1166667
+ph,calapi,11.9425,125.021389
+ph,recodo,11.949144,123.736954
+in,pappinisseri,11.95,75.35
+in,tirukkoyilur,11.95,79.2
+ni,acoyapa,11.9666667,-85.1666667
+ni,masaya,11.9666667,-86.1
+in,mallapuram,11.966667,78.25
+ph,balabag,11.97,121.919167
+ph,san juan,12.3568,124.3364
+ph,gamay,12.3638,125.2366
+an,westpunt,12.3666667,-69.1666667
+ml,yorosso,12.3666667,-4.7833333
+ph,bagong sikat,12.367447,121.061713
+ph,cervantes,12.368611,124.659722
+bf,ouagadougou,12.3702778,-1.5247222
+ph,bubog,12.373247,121.041713
+td,bokoro,12.3766667,17.0580556
+ph,san mariano,12.641427,121.437914
+ph,otavi,12.6417,123.9092
+ph,monreal,12.644,123.6648
+ph,santa magdalena,12.648,124.1093
+bf,gayeri,12.6497222,0.4930556
+bf,toma,12.65,-4.4166667
+in,channapatna,12.65,77.216667
+ml,bamako,12.65,-8
+in,krishnarajpet,12.655,76.488333
+ph,cawayan,12.6557,121.5456
+ph,abucay,12.9403,123.6727
+ph,abuyog,12.9461,124.0519
+ph,castilla,12.948611,123.882222
+in,gudiyattam,12.95,78.866667
+ph,malamig,12.95,121.366667
+ph,tambong,12.963906,121.484616
+ne,diffa,13.3155556,12.6088889
+bb,crab hill,13.3166667,-59.6333333
+gm,basse,13.3166667,-14.2166667
+sv,jiquilisco,13.3166667,-88.5833333
+in,chikmagalur,13.316667,75.783333
+in,ponneri,13.316667,80.2
+ph,lanigay,13.316667,123.5
+ph,san francisco,13.316667,123.75
+ph,malilipot,13.3188,123.7385
+hn,liure,13.5358333,-87.0919444
+hn,nacaome,13.5361111,-87.4875
+th,ratchaburi,13.536711,99.817117
+ph,bagupaye,13.539722,122.421944
+ph,santa rosa,13.5402,122.3912
+gt,guanagazapa,14.225278,-90.643333
+gt,pueblo nuevo vinas,14.225833,-90.474167
+ph,cigaras,14.2266,121.4298
+th,wang noi,14.226889,100.7155
+ph,victoria,14.2277,121.3292
+gt,oratorio,14.228056,-90.175833
+gt,la democracia,14.230833,-90.947222
+ph,pila,14.2325,121.3648
+gt,villa nueva,14.526944,-90.5875
+gt,mataquescuintla,14.529167,-90.184167
+ph,pinugay,14.5299,121.2561
+gt,chicacao,14.533333,-91.316667
+gt,cuyotenango,14.533333,-91.566667
+gt,panajachel,14.733333,-91.15
+in,proddatur,14.733333,78.55
+mx,puerto madero,14.733333,-92.416667
+hn,esquias,14.7333333,-87.3666667
+hn,punuare,14.7333333,-85.9666667
+hn,san jose de comayagua,14.7333333,-88.0333333
+ml,sokolo,14.7333333,-6.1333333
+mq,la trinite,14.7333333,-60.9666667
+mq,saint-pierre,14.7333333,-61.1666667
+ni,waspan,14.7333333,-83.9666667
+gt,comalapa,14.741111,-90.8875
+ph,san nicolas,15.0168,120.7017
+ph,san jose,15.0169,120.865
+ph,lourdes,15.0193,120.8511
+ph,calantas,15.0198,120.519
+ph,pias,15.0198,120.5599
+in,shirhatti,15.233333,75.583333
+dm,berekua,15.2333333,-61.3166667
+hn,chiquila,15.2333333,-88.5833333
+hn,la sarrosa,15.2333333,-87.8333333
+hn,urraco,15.2333333,-87.85
+ml,nioro,15.2333333,-9.5833333
+ph,san roque,15.2372,120.9558
+th,ubon ratchathani,15.23844,104.848659
+ph,san roque,15.2419,120.853
+th,phibun mangsahan,15.244667,105.229084
+ph,san antonio,15.2462,120.8496
+dm,pointe michel,15.25,-61.3833333
+gt,san miguel ixtahuacan,15.25,-91.75
+hn,agua blanca sur,15.25,-87.8833333
+hn,el ermitano,15.25,-88.6833333
+hn,la guacamaya,15.25,-87.8
+ph,iba,15.455052,120.413032
+th,phayuha khiri,15.45525,100.135334
+sd,kassala,15.4558333,36.3988889
+ph,lipay,15.4561,119.9208
+ph,sula,15.457252,120.395532
+ph,santa lucia,15.4598,120.7996
+th,thap than,15.460632,99.891657
+ph,moriones,15.460751,120.466432
+ph,amucao,15.46405,120.686432
+ph,villa aglipay,15.466051,120.452732
+mx,el espinal,16.333333,-94.066667
+ph,sadsadan,16.9333,120.8667
+gt,flores,16.933333,-89.883333
+in,kakinada,16.933333,82.216667
+in,malkapur,16.933333,73.916667
+mx,pantelho,16.933333,-92.55
+mx,el ocotito,17.25,-99.566667
+mx,huitzo,17.25,-96.866667
+mx,suchilquitongo,17.25,-96.883333
+mx,tecpan,17.25,-100.683333
+mx,xalpatlahuac,17.25,-98.666667
+mx,miguel hidalgo,17.266667,-91.15
+mx,tlaxiaco,17.266667,-97.683333
+ph,larion,17.628611,121.760847
+ph,gadu,17.6292,121.6105
+in,sangareddi,17.629444,78.091667
+mx,zihuatanejo,17.633333,-101.55
+in,moram,17.8,76.466667
+mx,balancan,17.8,-91.533333
+mx,belen,17.8,-92.616667
+ph,san nicolas,18.15,120.633333
+us,humacao,18.1516667,-65.8277778
+ph,sarrat,18.1574,120.647
+ph,catayauan,18.16358,121.652752
+us,adjuntas,18.1647222,-66.7225
+ph,piddig,18.1655,120.7175
+in,manthani,18.65,79.666667
+mx,tenango,18.65,-98.183333
+mx,tlacoyalco,18.65,-97.583333
+mx,zacatepec,18.65,-99.2
+do,villa altagracia,18.6666667,-70.1666667
+mx,nocupetaro,19.05,-101.15
+mx,ozumba,19.05,-98.8
+mx,puebla,19.05,-98.2
+mx,san sebastian villanueva,19.05,-97.716667
+mx,tres marias,19.052222,-99.243056
+mx,tlanisco,19.061389,-99.655556
+in,jagdalpur,19.066667,82.033333
+mx,buenos aires,19.066667,-102.166667
+mx,sanctorum,19.1,-98.25
+mx,tlachichuca,19.1,-97.416667
+mx,tenango de arista,19.101667,-99.593056
+sd,sawakin,19.1038889,37.33
+mx,balderas,19.106944,-99.654722
+in,hinjilikatu,19.483333,84.75
+in,paithan,19.483333,75.383333
+mx,coacoatzintla,19.633333,-96.933333
+mx,las vigas,19.633333,-97.083333
+mx,tepetitlan,19.633333,-99.916667
+mx,cahuacan,19.639167,-99.416111
+vn,thanh hoa,19.8,105.766667
+mx,los reyes,19.808333,-98.248611
+cn,lingao,19.907778,109.685833
+mx,tequixquiac,19.908056,-99.1475
+mx,hueypoxtla,19.908333,-99.08
+mx,la barca,20.283333,-102.566667
+mx,pahuatlan,20.283333,-98.15
+mx,tanhuato,20.283333,-102.333333
+mx,tarimoro,20.283333,-100.75
+cu,contramaestre,20.2977778,-76.2413889
+mx,el colorado,20.566667,-100.25
+mx,octopan,20.566667,-100.733333
+mx,puente grande,20.566667,-103.15
+mx,salamanca,20.566667,-101.2
+in,barpali,21.2,83.583333
+mx,buctzotz,21.2,-88.783333
+mx,cerro azul,21.2,-97.733333
+mx,dzemul,21.2,-89.3
+mx,isla mujeres,21.2,-86.716667
+mx,jalostotitlan,21.2,-102.466667
+mx,telchac,21.2,-89.266667
+mx,victoria,21.210833,-100.211944
+in,bhilai,21.216667,81.433333
+mx,ixcatepec,21.216667,-98
+mx,tlaltenango,21.783333,-103.316667
+mx,santa maria del rio,21.8,-100.75
+mx,villa de reyes,21.8,-100.933333
+cu,trinidad,21.8019444,-79.9841667
+in,brajrajnagar,21.816667,83.916667
+in,jaleswar,21.816667,87.216667
+tw,chiali,23.16,120.1777778
+cn,luoyang,23.162442,114.273423
+bd,naral,23.1666667,89.5
+in,adalaj,23.166667,72.583333
+in,begamganj,23.6,78.333333
+in,himatnagar,23.6,72.95
+in,mahesana,23.6,72.4
+in,ondal,23.6,87.2
+in,partapur,23.6,74.166667
+mx,canitas,23.6,-102.716667
+in,jahanabad,25.216667,84.983333
+in,kachhwa,25.216667,82.716667
+mx,nazas,25.216667,-104.1
+in,kolaras,25.233333,77.6
+in,babina,25.25,78.466667
+us,south miami,25.7072222,-80.2936111
+us,kendale lakes,25.7077778,-80.4072222
+bs,alice town,25.7166667,-79.3
+in,kunda,25.716667,81.516667
+in,moth,25.716667,78.95
+us,coral gables,25.7211111,-80.2686111
+cn,rongcheng,25.725,119.379444
+in,chatsu,26.6,75.95
+in,phaphund,26.6,79.466667
+in,sitamarhi,26.6,85.483333
+us,lake worth,26.6155556,-80.0572222
+in,nagram,26.616667,81.133333
+bs,high rock,26.6208333,-78.2833333
+us,lehigh acres,26.625,-81.625
+in,bithur,26.633333,80.283333
+in,sakit,27.45,78.816667
+mx,campo sesenta,27.45,-110.1
+us,south bradenton,27.4627778,-82.5819444
+in,nuh,28.116667,77.016667
+es,granadilla de abona,28.118816,-16.575989
+es,adeje,28.11984,-16.725581
+in,jhunjhunun,28.1307,75.4014
+in,sirsi,28.65,78.65
+ir,jiroft,28.6535,57.7646
+ir,khormuj,28.6543,51.38
+es,los llanos de aridane,28.658507,-17.918211
+us,altamonte springs,28.6608333,-81.3658333
+us,forest city,28.6613889,-81.4191667
+us,mims,28.665,-80.845
+in,panipat,29.388889,76.968056
+in,afzalgarh,29.4,78.683333
+in,kairana,29.4,77.2
+in,ramnagar,29.4,79.116667
+pk,bahawalpur,29.4,71.683333
+ir,abadan,30.3392,48.3043
+pk,pakpattan,30.341044,73.386642
+pk,ziarat,30.343651,67.741324
+cn,anju,30.349556,105.455937
+cn,zhifang,30.35,114.316667
+jo,sirfa,31.329643,35.654394
+in,bilaspur,31.333333,76.75
+mx,nogales,31.333333,-110.933333
+pk,jaranwala,31.333333,73.433333
+mx,naco,31.334722,-109.948333
+pk,chiniot,31.72,72.978889
+in,gardhiwala,31.7325,75.750556
+jp,kokubu,31.733333,130.766667
+us,calexico,32.6788889,-115.4980556
+cn,ankang,32.68,109.017222
+il,iksal,32.68164,35.323646
+cn,dengzhou,32.682222,112.081944
+jo,kafr sawm,32.683333,35.8
+jp,uto,32.683333,130.666667
+pt,santa cruz,32.683333,-16.8
+ir,rehnan,32.684617,51.60129
+us,coronado,32.6858333,-117.1822222
+us,alabaster,33.2441667,-86.8163889
+us,griffin,33.2466667,-84.2641667
+us,commerce,33.2469444,-95.8997222
+jp,nagato,34.383333,131.2
+jp,tsuyama,35.05,134
+jp,yasu,35.05,136.016667
+sy,masyaf,35.05,36.35
+us,raleigh,35.7719444,-78.6388889
+ma,tangier,35.780576,-5.813646
+us,statesville,35.7825,-80.8875
+jp,matsudo,35.783333,139.9
+ir,fereydun kenar,36.686418,52.522548
+es,jerez,36.686454,-6.136063
+us,martinsville,36.6913889,-79.8727778
+gr,varvasaina,37.6833333,21.5
+us,wichita,37.6922222,-97.3372222
+gr,ayia paraskevi,38.0166667,23.8333333
+us,eldersburg,39.4036111,-76.9505556
+es,campo de criptana,39.404637,-3.123583
+pt,poiares,40.210256,-8.257464
+tr,karacabey,40.215251,28.403778
+it,policoro,40.216667,16.683333
+uz,druzhba,41.2222222,61.3066667
+us,ogden,41.2230556,-111.9730556
+pt,rebordosa,41.224052,-8.406689
+bg,carevo,42.1666667,27.85
+bg,elhovo,42.1666667,26.5666667
+us,barnstead,43.3338889,-71.2933333
+ru,novyy kostek,43.335302,46.824664
+ru,podkumskiy,44.075556,43.210278
+ru,tarumovka,44.076063,46.536134
+us,waseca,44.0777778,-93.5072222
+ro,denta,45.353889,21.249167
+it,san michele al tagliamento,45.7625,12.999444
+kz,kazalinsk,45.762778,62.1075
+ro,ghiroda,45.763889,21.300278
+rs,mol,45.764167,20.131111
+ch,plan-les-ouates,46.167615,6.119125
+it,maniago,46.170556,12.707778
+us,south hill,47.1413889,-122.2688889
+md,straseni,47.141389,28.610278
+ch,winterthur,47.500035,8.7251
+us,great falls,47.5002778,-111.3
+ua,novovorontsovka,47.500353,33.917485
+hu,szilvasvarad,48.1,20.4
+hu,tiszanagyfalu,48.1,21.483333
+de,tholey,49.483333,7.066667
+ru,log,49.484367,43.861255
+cz,brodek u prerova,49.484523,17.336783
+cz,stribro,49.754845,12.995478
+cz,moravska trebova,49.755711,16.657149
+pl,pinczow,50.520961,20.526694
+cz,mnichovo hradiste,50.522981,14.974758
+ua,sarny,51.337949,26.601913
+pl,wolow,51.339044,16.646788
+ru,glushkovo,51.339167,34.632778
+ru,starodub,52.584444,32.763333
+ru,oyek,52.586111,104.455556
+ru,kotovsk,52.58666,41.502104
+ru,rzhanitsa,53.428443,33.922968
+gb,fleetwood,53.916667,-3
+pl,morag,53.91711,19.926025
+ru,almenevo,54.943889,63.577778
+ru,beloomut,54.944776,39.339414
+ru,kukmor,56.1855,50.8944
+ru,shemordan,56.1856,50.3972
+ru,alnashi,56.187378,52.479185
+gb,insch,57.333333,-2.616667
+gb,pitmedden,57.333333,-2.183333
+ru,chukhloma,58.753748,42.683184
+ru,valerianovsk,58.760236,59.558986
+ru,totma,59.973749,42.764865
+ru,imeni morozova,59.975723,31.037623
+ru,solnechnyy,60.416667,137.5
+ru,ust-maya,60.416667,134.533333
+ru,debin,62.35,150.766667
+ru,sinegorye,62.35,150.766667
+no,hareid,62.366667,6.033333
+no,ikornnes,62.383333,6.566667
+se,sundsvall,62.383333,17.3
+no,steinkjer,64.016667,11.5
+no,malm,64.066667,11.216667
+fi,ylivieska,64.083333,24.55
+no,myre,69.103611,15.949167
+ru,belushya guba,71.539238,52.332117
+ru,tiksi,71.687222,128.869444
+ru,saskylakh,71.916667,114.083333
+ru,khatanga,71.966667,102.5
+gl,upernavik,72.7833333,-56.1666667
+ru,dikson,73.506944,80.546389
+gl,narsaq,77.3025,-68.8425
+gl,qaanaaq,77.4894444,-69.3322222
+sj,barentsburg,78.0666667,14.2333333
+sj,longyearbyen,78.2166667,15.6333333
